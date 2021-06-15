@@ -7,4 +7,4 @@ jobs:
     steps:
     - name: Catch insensitive wording
       id: alex
-      uses: brockreece/alex-github-action@v1
+      uses: theashraf/alex-action@master
